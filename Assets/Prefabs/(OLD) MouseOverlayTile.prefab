@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 9095082497684717814}
   - component: {fileID: 9022929515952384707}
   m_Layer: 0
-  m_Name: MouseOverlayTile
+  m_Name: (OLD) MouseOverlayTile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

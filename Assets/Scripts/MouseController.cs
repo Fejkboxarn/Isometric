@@ -28,7 +28,7 @@ using UnityEngine;
                 if (Input.GetMouseButtonDown(0))
                 {
                     overlayTile.GetComponent<SpriteRenderer>().color = new Color(1, 1, 1, 1);
-                    Debug.Log("Test");
+                    Debug.Log("Colliders are fixed if this appears");
                 }
             }
         }
