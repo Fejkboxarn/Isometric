@@ -2074,6 +2074,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cursor: {fileID: 2106826890}
+  speed: 4
+  characterPrefab: {fileID: 403341953511590236, guid: a9e7180ac5fd40d419091bed8ad37cd5, type: 3}
 --- !u!212 &2106826892
 SpriteRenderer:
   m_ObjectHideFlags: 0
